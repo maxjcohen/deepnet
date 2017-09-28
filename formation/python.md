@@ -1,4 +1,4 @@
-Python3 installation using virutalenv - Ubuntu
+Python3 installation using virtualenv - Ubuntu
 ======================================
 
 ## 1. Installation
