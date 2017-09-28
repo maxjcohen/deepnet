@@ -5,8 +5,10 @@ Python3 installation using virutalenv - Ubuntu
 We expect the user to be using on Ubuntu 16.04, though most of the command should work on Ubuntu 14.04. Most of the command are to be run in a terminal.
 First, we update are package list:
 
-```sudo apt-get update```
-```sudo apt-get upgrade```
+```
+sudo apt-get update
+sudo apt-get upgrade
+```
 
 We then install python3, along with its development headers:
 
