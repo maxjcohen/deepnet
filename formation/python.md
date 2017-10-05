@@ -20,7 +20,7 @@ We install [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)), a python 
 
 We can now install virtualenv, along with virtualenvwrapper, which allows us to use virtualenv easly:
 
-```sudo pip install virtualenv virtualenvwrapper```
+```sudo -H pip3 install virtualenv virtualenvwrapper```
 
 You should now edit the `.bashrc` file in your home folder, and add the following lines. Remember this is a [hidden file](https://askubuntu.com/questions/470837/how-to-show-hidden-folders-in-ubuntu-14-04#470849) !
 
