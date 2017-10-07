@@ -1,12 +1,16 @@
 Keras on mnist
 =============
+*A couple of tutorials to get started in deep learning*
 
 Content:
 
-### 1. Classification
+### Formations
+* [Installing python3 with virtualenv](https://ginko3.github.io/clubcode_mnist/formation/python)
+
+### Classification
 * cnn
 * mlp
 
-### 2. Autoencoder
+### Autoencoder
 * cnn
-* cnn (normalization before activation)
+* cnn with normalization
