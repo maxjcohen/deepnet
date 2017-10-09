@@ -6,6 +6,7 @@ Content:
 
 ### Formations
 * [Installing python3 with virtualenv](https://ginko3.github.io/clubcode_mnist/formation/python)
+* [Installting tensoflow](https://ginko3.github.io/clubcode_mnist/formation/tensorflow)
 
 ### Classification
 * cnn
