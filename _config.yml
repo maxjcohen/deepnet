@@ -1,1 +1,4 @@
+title: Keras on mnist
+description: A set of scripts that apply keras to mnist for tasks such as classification, generation, detection... 
+
 theme: jekyll-theme-cayman
