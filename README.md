@@ -6,15 +6,15 @@ Content:
 
 ### Formations
 * [Installing python3 with virtualenv](https://ginko3.github.io/clubcode_mnist/formation/python)
-* [Installting tensoflow](https://ginko3.github.io/clubcode_mnist/formation/tensorflow)
+* [Installing tensorflow](https://ginko3.github.io/clubcode_mnist/formation/tensorflow)
 
 ### Classification
-* CNN
-* FC
+* [CNN](https://github.com/ginko3/clubcode_mnist/blob/master/classification/cnn.ipynb)
+* [FC](https://github.com/ginko3/clubcode_mnist/blob/master/classification/mlp.ipynb)
 
 ### Autoencoder
-* CNN
-* CNN with normalization
+* [CNN](https://github.com/ginko3/clubcode_mnist/blob/master/autoencoder/cnn.ipynb)
+* [CNN with normalization](https://github.com/ginko3/clubcode_mnist/blob/master/autoencoder/cnn_normalized.ipynb)
 
 ### Siamese
-* CNN + FC
+* [CNN + FC](https://github.com/ginko3/clubcode_mnist/blob/master/siamese/cnn.ipynb)
