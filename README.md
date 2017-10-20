@@ -9,9 +9,12 @@ Content:
 * [Installting tensoflow](https://ginko3.github.io/clubcode_mnist/formation/tensorflow)
 
 ### Classification
-* cnn
-* mlp
+* CNN
+* FC
 
 ### Autoencoder
-* cnn
-* cnn with normalization
+* CNN
+* CNN with normalization
+
+## Siamese
+* CNN + FC
