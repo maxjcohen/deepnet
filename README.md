@@ -1,4 +1,4 @@
-Keras on mnist
+Scripts for DeepNet
 =============
 *A couple of tutorials to get started in deep learning*
 
