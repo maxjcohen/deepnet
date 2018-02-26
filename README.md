@@ -5,11 +5,11 @@ Scripts for DeepNet
 Content:
 
 ## Formations
-### *Installs*
+#### *Installs*
 * [Installing python3 with virtualenv](https://ginko3.github.io/deepnet/formation/installs/python)
 * [Installing tensorflow](https://ginko3.github.io/deepnet/formation/installs/tensorflow)
 
-### Coursera memos
+#### *Coursera memos*
 * [Memos](https://github.com/ginko3/deepnet/tree/master/formation/coursera)
 
 ## Classification
@@ -17,7 +17,7 @@ Content:
 * [FC](https://github.com/ginko3/deepnet/blob/master/classification/mlp.ipynb)
 
 ## Models
-### *Autoencoder*
+#### *Autoencoder*
 * [CNN](https://github.com/ginko3/deepnet/blob/master/models/autoencoder/cnn.ipynb)
 * [CNN with normalization](https://github.com/ginko3/deepnet/blob/master/models/autoencoder/cnn_normalized.ipynb)
 
