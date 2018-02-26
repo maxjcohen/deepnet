@@ -4,17 +4,22 @@ Scripts for DeepNet
 
 Content:
 
-### Formations
-* [Installing python3 with virtualenv](https://ginko3.github.io/clubcode_mnist/formation/python)
-* [Installing tensorflow](https://ginko3.github.io/clubcode_mnist/formation/tensorflow)
+## Formations
+### Installs
+* [Installing python3 with virtualenv](https://ginko3.github.io/deepnet/formation/installs/python)
+* [Installing tensorflow](https://ginko3.github.io/deepnet/formation/installs/tensorflow)
 
-### Classification
-* [CNN](https://github.com/ginko3/clubcode_mnist/blob/master/classification/cnn.ipynb)
-* [FC](https://github.com/ginko3/clubcode_mnist/blob/master/classification/mlp.ipynb)
+### Coursera memos
+* [Memos](https://github.com/ginko3/deepnet/tree/master/formation/coursera)
 
+## Classification
+* [CNN](https://github.com/ginko3/deepnet/blob/master/classification/cnn.ipynb)
+* [FC](https://github.com/ginko3/deepnet/blob/master/classification/mlp.ipynb)
+
+## Models
 ### Autoencoder
-* [CNN](https://github.com/ginko3/clubcode_mnist/blob/master/autoencoder/cnn.ipynb)
-* [CNN with normalization](https://github.com/ginko3/clubcode_mnist/blob/master/autoencoder/cnn_normalized.ipynb)
+* [CNN](https://github.com/ginko3/deepnet/blob/master/models/autoencoder/cnn.ipynb)
+* [CNN with normalization](https://github.com/ginko3/deepnet/blob/master/models/autoencoder/cnn_normalized.ipynb)
 
-### Siamese
-* [CNN + FC](https://github.com/ginko3/clubcode_mnist/blob/master/siamese/cnn.ipynb)
+#### Siamese
+* [CNN + FC](https://github.com/ginko3/deepnet/blob/master/models/siamese/cnn.ipynb)
